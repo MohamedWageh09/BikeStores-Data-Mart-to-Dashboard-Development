@@ -4,3 +4,7 @@ In this repo you will find the BikeStores project details and it contains:
 - ETL development to populate the data mart (using informatica)
 - Power BI dashboard providing the insights
 - the grain is product per order (daily basis)
+
+Tools & Technologies: Informatica PowerCenter, Oracle, Power BI
+
+Dashboard: https://www.novypro.com/project/bike-stores-sales-report
