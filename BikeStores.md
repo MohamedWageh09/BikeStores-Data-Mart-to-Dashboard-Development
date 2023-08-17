@@ -1,3 +1,7 @@
+# Source Data:
+![image](https://github.com/MohamedWageh09/BikeStores-Data-Mart-to-Dashboard-Development/assets/120044385/f0b99292-8a17-482b-ae2e-b14368798255)
+
+
 # Data mart designing and creation
 
 ### Moved the data (flat files) to a staging DB:
