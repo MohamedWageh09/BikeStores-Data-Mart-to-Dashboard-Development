@@ -51,6 +51,11 @@ Used PL/SQL to populate the date dim
 
 ![image](https://github.com/MohamedWageh09/BikeStores-Data-Mart-to-Dashboard-Development/assets/120044385/7583c3de-e3e7-42a2-8173-c9daf4c5963c)
 
+### Then Connected Power BI with the data mart and created the report:
+
+![image](https://github.com/MohamedWageh09/BikeStores-Data-Mart-to-Dashboard-Development/assets/120044385/3411ad03-3917-4e8b-b711-555102729e78)
+
+
 
 
 
