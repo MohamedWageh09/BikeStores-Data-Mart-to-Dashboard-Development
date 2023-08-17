@@ -3,3 +3,4 @@ In this repo you will find the BikeStores project details and it contains:
 - Data mart designing and implementation
 - ETL development to populate the data mart (using informatica)
 - Power BI dashboard providing the insights
+- the grain is product per order in a transaction (daily basis)
