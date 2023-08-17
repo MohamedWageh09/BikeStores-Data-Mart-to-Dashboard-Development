@@ -1,6 +1,6 @@
 # Data mart designing and creation
 
-### Moved the data from the operational DB to a staging DB:
+### Moved the data (flat files) to a staging DB:
 
 ![image](https://github.com/MohamedWageh09/BikeStores-Data-Mart-to-Dashboard-Development/assets/120044385/6a3632d3-b513-4b28-8a5d-df816f49904e)
 
